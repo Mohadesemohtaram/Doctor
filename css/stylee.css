@@ -18,3 +18,7 @@ h6{
     background: linear-gradient(to top,#65A8FB,#1678F2);
     box-shadow:0 0 20px rgba(88, 88, 250, 0.2);
 }
+.bg-section{
+    background: #F2F7FF;
+  
+}
