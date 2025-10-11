@@ -1,0 +1,47 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+.menu-item {
+    color: #6C87AE !important;
+
+}
+
+.menu-item:hover {
+    color: #3A8EF6 !important;
+}
+
+.btn-section {
+    background: linear-gradient(30deg, #3A8EF6, #6F3AFA 50%);
+    box-shadow: 0 0 20px rgba(88, 88, 250, 0.2);
+}
+
+h6 {
+    color: #00BFA5 !important;
+}
+
+.box-section {
+
+    background: linear-gradient(to top, #65A8FB, #1678F2);
+    box-shadow: 0 0 20px rgba(88, 88, 250, 0.3);
+}
+
+.bg-section {
+    background: #F2F7FF;
+
+}
+
+.bg-box {
+    background-color: white !important;
+}
+
+.content-footer {
+    list-style: none;
+}
+
+.line {
+    width: 100%;
+    height: 2px;
+    background: white;
+    border-radius: 2px;
+}
