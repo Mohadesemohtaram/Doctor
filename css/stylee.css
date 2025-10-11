@@ -29,3 +29,12 @@ h6 {
 .bg-box{
     background-color:white !important ;
 }
+.content-footer{
+    list-style: none;
+}
+.line{
+    width: 1000px;
+    height: 1px;
+    background: white;
+    border-radius: 2px;
+}
